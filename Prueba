@@ -1,8 +1,9 @@
 echo sirve para mandar mensajes
-MD sirve para hacer un directorio
-CD sirve para cambio de directorio
-DIR sirve para muestra archivos
-CLS sirve para limpiar pantalla
+MD sirve para hacer un directorio <- MD viene de las palabras Make Directory
+CD sirve para cambio de directorio <- CD viene de las palabras Change directory
+DIR sirve para muestra archivos <- viene de la palabara directory y esta significa carpeta
+CLS sirve para limpiar pantalla <- viene de la palabra Clear Screen
 color  es para cambiar de color
-< para guiar a una caperta}
-every thing todo
+< para guiar a una caperta <- a una carpeta o archivo
+every thing todo <- este se refiere al simbolo *
+
